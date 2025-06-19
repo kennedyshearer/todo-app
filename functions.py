@@ -14,7 +14,7 @@ def write_todos(todos_arg, filepath=FILEPATH):
         file.writelines(todos_arg)
 
 
-# Practice output in functions.py and main.py using __name__
+# Practice output in functions.py and cli.py using __name__
 
 if __name__ == "__main__":
     print("Hello")
